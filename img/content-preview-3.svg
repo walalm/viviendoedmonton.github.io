@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#f5f5f5"/>
+  
+  <!-- Snow background -->
+  <rect width="200" height="200" fill="#e0f0ff"/>
+  
+  <!-- Snow-covered hills -->
+  <path d="M0,140 Q50,100 100,140 T200,140 L200,200 L0,200 Z" fill="#fff"/>
+  
+  <!-- Trees -->
+  <path d="M50,160 L55,120 L60,160 Z" fill="#0a5c36"/>
+  <path d="M70,150 L75,110 L80,150 Z" fill="#0a5c36"/>
+  <path d="M130,155 L135,115 L140,155 Z" fill="#0a5c36"/>
+  
+  <!-- Snowflakes -->
+  <path d="M30,30 L34,34 M30,34 L34,30 M28,32 L36,32 M32,28 L32,36" stroke="#fff" stroke-width="1"/>
+  <path d="M130,50 L134,54 M130,54 L134,50 M128,52 L136,52 M132,48 L132,56" stroke="#fff" stroke-width="1"/>
+  <path d="M80,70 L84,74 M80,74 L84,70 M78,72 L86,72 M82,68 L82,76" stroke="#fff" stroke-width="1"/>
+  
+  <!-- Instagram-style frame -->
+  <rect x="0" y="0" width="200" height="200" fill="none" stroke="#4b3f72" stroke-width="8"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#f5f5f5"/>
+  
+  <!-- Sky -->
+  <rect width="200" height="120" fill="#a7d8ff"/>
+  
+  <!-- Ground -->
+  <rect y="120" width="200" height="80" fill="#7bba74"/>
+  
+  <!-- House -->
+  <rect x="50" y="80" width="100" height="70" fill="#f5d7aa" stroke="#bf9d7a" stroke-width="2"/>
+  <polygon points="50,80 100,50 150,80" fill="#bf9d7a" stroke="#8c6239" stroke-width="2"/>
+  
+  <!-- Door -->
+  <rect x="90" y="110" width="20" height="40" fill="#8c6239"/>
+  <circle cx="105" cy="130" r="2" fill="#f5d7aa"/>
+  
+  <!-- Windows -->
+  <rect x="60" y="90" width="20" height="20" fill="#a7d8ff" stroke="#8c6239" stroke-width="2"/>
+  <rect x="120" y="90" width="20" height="20" fill="#a7d8ff" stroke="#8c6239" stroke-width="2"/>
+  
+  <!-- Canadian flag on house -->
+  <rect x="95" y="65" width="10" height="5" fill="#c8102e"/>
+  <rect x="90" y="70" width="20" height="10" fill="#fff"/>
+  <rect x="95" y="75" width="10" height="5" fill="#c8102e"/>
+  
+  <!-- Instagram-style frame -->
+  <rect x="0" y="0" width="200" height="200" fill="none" stroke="#4b3f72" stroke-width="8"/>
+</svg>

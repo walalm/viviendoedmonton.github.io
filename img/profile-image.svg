@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <!-- Background circle -->
+  <circle cx="75" cy="75" r="75" fill="#4b3f72"/>
+  
+  <!-- Maple leaf symbol -->
+  <path d="M75,30 L78,40 L88,35 L85,45 L95,47 L87,53 L95,60 L85,58 L88,68 L78,63 L75,73 L72,63 L62,68 L65,58 L55,60 L63,53 L55,47 L65,45 L62,35 L72,40 Z" fill="#c8102e"/>
+  
+  <!-- Stylized "VE" text -->
+  <text x="75" y="105" font-family="Arial, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="white">VE</text>
+</svg>
